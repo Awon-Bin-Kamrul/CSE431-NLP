@@ -2,6 +2,7 @@ Link to unlisted YouTube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1igFb8mEsr-JJQf-_hlPglB18bOz23tky/edit#slide=id.p1
 
 Paper title:
 GLOBAL OPTIMUM SEARCH FOR NONCONVEX NLP AND MINLP PROBLEMS
