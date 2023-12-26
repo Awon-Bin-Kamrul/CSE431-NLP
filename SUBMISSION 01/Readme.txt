@@ -2,6 +2,7 @@ Link to unlisted YouTube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1-mJJ61KFqg0-Q7GRr78FaCYM67FLrlKB/edit#slide=id.p1
 
 Paper title:
 Class Diagram Extraction from Textual Requirements Using NLP Techniques
